@@ -1,0 +1,12 @@
+
+{
+  "version": "1.0.1",
+  "notes": "Wave Amp 1.0.1",
+  "pub_date": "2026-11-26T03:21:03Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTlCb3dtSG1uV0svSk9tcXBuRHZwSmY0S2FEa0ZTSWh5MTh0K2VGRjFKbFU4elNvek8xTjVXd1p5T0l3cGNlaDhGM0RzUXF5OHgzcVI1aDU1VWJ0dHNBMXBuTTVVUnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjYzMjYzCWZpbGU6V2F2ZSBBbXBfMS4wLjFfeDY0LXNldHVwLmV4ZQo3cEZlT1NaR1UxcTVlZWpzRTdwZmo1cU42ZStGekNXMWdPaHNNc3l6bTdYWkphK0J6UThBL2ZSVU1JVzFqZ2d2R1lIc1ZIN0k1K1MweWJvS2pvWkpBdz09Cg==",
+      "url": "https://github.com/sud123x1/WaveAmp-Updates/releases/download/v1.0.1/Wave%20Amp_1.0.1_x64-setup.exe"
+    }
+  }
+}
